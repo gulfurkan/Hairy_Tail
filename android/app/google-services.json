@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234429306609",
+    "project_id": "hairy-tail",
+    "storage_bucket": "hairy-tail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234429306609:android:ad7f002e0350161700bb50",
+        "android_client_info": {
+          "package_name": "com.example.hairy_tail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234429306609-80c2ip6ht0da2pgiolome61187rik9c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6HpmZl8ylkmwXUq2-gSccQEL5OAs-3mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234429306609-80c2ip6ht0da2pgiolome61187rik9c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
